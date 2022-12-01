@@ -1,0 +1,47 @@
+
+
+body{
+	font-size: 20px;
+	color: #424551;
+}
+[class*="__container"]{
+	max-width: 1260px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.wpapper{
+	position: relative;
+	overflow: hidden;
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+.page {
+
+}
+
+.page_homework {
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 20px;
+}
+.page_homework h1{
+	font-size: 36px;
+	margin: 0 auto;
+}
+.page_item {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+.page_homework h2{
+
+	font-size: 28px;
+}
+.page_item-1  {
+}
+.page_item-2 {
+}
+.page_item-3 {
+}
+
